@@ -1,0 +1,6 @@
+__pycache__/
+cookies/
+profiles/
+fb.json
+.DS_Store
+csvs
